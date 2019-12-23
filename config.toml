@@ -55,10 +55,8 @@ googleAnalytics = "UA-154860067-1"
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "edmundcylau@gmail.com"
+  facebook      = "https://www.facebook.com/edmundcylau"
+  email         = "imedmundlcy@gmail.com"
   linkedin      = "https://www.linkedin.com/in/edmundcylau/"
   github        = "full profile url in github"
   youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
