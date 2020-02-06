@@ -3,26 +3,24 @@ showonlyimage = true
 draft = false
 image = "img/portfolio/curiocity.png"
 date = "2019-12-22T18:25:22+05:30"
-title = "Curiocity"
+title = "Wechat Miniapp: CurioCity"
 weight = 0
 +++
 
-Discover every historical architecture of cities in China. We utilize the power of wechat miniapp to help user explore the cities on foot.
-<!--more-->
+**Do you know Shanghai was once called "De Changhai"?**
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Behind the glamorous Shanghai Bund or the tranquility of french concession in Shanghai, every architecture has its own story. In shanghai, you cannot walk down a street without seeing a historical architecture e.g. art deco, modernist, spanish etc.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+**CurioCity** wechat miniapp aims to discover every historical architecture of cities in China. We utilize the power of wechat miniapp to help user explore the cities on foot.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+
+1. Discover historial architecture nearby
+2. Wallking direction from your current location
+3. Information of the architecture e.g. Year built, architect, style etc.
+
+## Demo & Screenshot
 
 {{< youtube 9dXB_hGM0hc >}}
-
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
 
 Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 
