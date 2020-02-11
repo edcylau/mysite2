@@ -14,7 +14,7 @@ googleAnalytics = "UA-154860067-1"
   description = "Describe your website"
   copyright = "&copy;2020 Edmund Lau"
   sidebarAbout = [
-    "Pursuing sdigital nomad life, a fullstack web developer and wechat miniapp developer,",
+    "Pursuing a digital nomad life, a fullstack web developer and a wechat miniapp developer,",
     "who currently based in Shanghai with 3 dogs."
   ]
   # Contact page
@@ -55,7 +55,7 @@ googleAnalytics = "UA-154860067-1"
   url = "contact/"
 
   [params.social]
-  facebook      = "https://www.facebook.com/palauhk"
+#  facebook      = "https://www.facebook.com/palauhk"
   email         = "imedmundlcy@gmail.com"
   linkedin      = "https://www.linkedin.com/in/edmundcylau/"
   github        = "https://github.com/edcylau"
