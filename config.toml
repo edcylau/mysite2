@@ -15,8 +15,7 @@ googleAnalytics = "UA-154860067-1"
   copyright = "&copy;2020 Edmund Lau"
   sidebarAbout = [
     "After more than 10 years of corporate life in banking and wealth management, I have decided to pursue a digital side of the real world.",
-    "Digital opens a brand new horizon which joins up visual content with your daily life. Although I prefer travelling, tangible exploration of world instead of visual orgasm ",
-    "with your social media, I am more happy to apply my skill developed in Le Wagon Shanghai, to help individuals to visualize your mind, thoughts and information to others digitally."
+    "Digital opens a brand new horizon which joins up visual content with your daily life. Although I prefer travelling, tangible exploration of world instead of visual orgasm with your social media, I am more happy to apply my skill developed in Le Wagon Shanghai, to help individuals to visualize their mind, thoughts and information to others through the web."
     ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
