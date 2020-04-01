@@ -1,6 +1,6 @@
 +++
 date = "2020-01-07T21:05:33+05:30"
-title = "About me"
+title = "About Ed"
 +++
 
 After more than 10 years of corporate life in banking and wealth management, I have decided to pursue a digital side of the real world.

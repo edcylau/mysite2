@@ -11,7 +11,7 @@ googleAnalytics = "UA-154860067-1"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "sea"
-  description = "Describe your website"
+  description = "Edmund's portfolio page"
   copyright = "&copy;2020 Edmund Lau"
   sidebarAbout = [
     "After more than 10 years of corporate life in banking and wealth management, I have decided to pursue a digital side of the real world.",
