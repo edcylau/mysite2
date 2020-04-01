@@ -1,13 +1,13 @@
 +++
 date = "2020-01-04T19:41:01+05:30"
 title = "WECHAT MINIAPP: SCOOTER"
-draft = true
-image = "img/portfolio/business-card-26.jpg"
+draft = false
+image = "img/portfolio/scooter.png"
 showonlyimage = false
 weight = 1
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+Scooter is quite common in China now. The miniapp helps travellers or even locals to explore and rent nearby scooters.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
