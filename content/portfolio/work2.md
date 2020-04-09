@@ -4,7 +4,7 @@ title = "WECHAT MINIAPP: SCOOTER"
 draft = false
 image = "img/portfolio/scooter.png"
 showonlyimage = false
-weight = 1
+weight = 0
 +++
 
 Scooter is quite common in China now. The miniapp helps travellers or even locals to explore and rent nearby scooters.
